@@ -1,0 +1,16 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Server side of the application - Dealing with stardog",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Etienne & Attar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "stardog": "^1.4.0"
+  }
+}
