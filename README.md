@@ -2,6 +2,15 @@
 Snowman game using ontology
 
 
+* Partie stardog
+
+Importer le fichier snowmanDataBase.ttl depuis stardog studio.
+
+Sur le menu de création d'une nouvelle base de données, nommer la base par :
+```
+database
+```
+
 
 * Partie backend 
 
